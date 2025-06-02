@@ -1,0 +1,49 @@
+{
+  "name": "Kiruhi LUT + Effects Pack",
+  "version": "1.0.0",
+  "description": "A curated set of cinematic LUTs and glitchy effects by Kiruhi, for use in creative video editing workflows.",
+  "author": "Kiruhi",
+  "license": "Personal & Commercial Use - No Redistribution",
+  "website": "https://gumroad.com/kiruhi",
+  "tags": [
+    "LUT",
+    "color grading",
+    "video effects",
+    "glitch",
+    "cinematic",
+    "analog",
+    "RGB",
+    "lofi"
+  ],
+  "content": {
+    "luts": [
+      "Kiruhi_Analog.cube",
+      "Kiruhi_Dreamcore.cube",
+      "Kiruhi_Lofi.cube",
+      "Kiruhi_Glitch.cube",
+      "Kiruhi_Film.cube",
+      "Kiruhi_Warmth.cube"
+    ],
+    "effects": [
+      "VHS_Texture_01.mov",
+      "Glitch_Pulse.mov",
+      "RGB_Split.mov",
+      "Film_Grain.mov"
+    ]
+  },
+  "compatibility": {
+    "software": [
+      "DaVinci Resolve",
+      "Premiere Pro",
+      "Final Cut Pro",
+      "After Effects",
+      "Kdenlive",
+      "OBS"
+    ],
+    "formats": {
+      "lut": ".cube",
+      "effects": [".mov", ".mp4", ".png"]
+    }
+  },
+  "last_updated": "2025-06-02"
+}

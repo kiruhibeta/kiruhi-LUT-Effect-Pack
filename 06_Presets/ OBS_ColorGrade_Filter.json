@@ -1,0 +1,16 @@
+{
+  "name": "Kiruhi LUT Color Grade",
+  "type": "color_filter_lut",
+  "settings": {
+    "lut_path": "Kiruhi_Lofi.cube",
+    "intensity": 1.0
+  },
+  "version": 1,
+  "author": "Kiruhi",
+  "description": "Applies a custom LUT from the Kiruhi Pack for cinematic or analog-style color grading in OBS.",
+  "metadata": {
+    "tags": ["OBS", "filter", "LUT", "color grading", "analog", "cinematic"],
+    "compatible_versions": [27, 28, 29],
+    "recommended_sources": ["Video Capture Device", "Media Source", "Game Capture"]
+  }
+}
