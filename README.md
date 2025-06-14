@@ -73,7 +73,7 @@ Preview videos, before/after comparisons, and GIFs can be found in `05_Demo/`.
 ## 🔗 Useful Links
 - [YouTube Trailer](https://youtube.com/@kiruhi)  
 - [Get the Full Pack (Gumroad)](https://gumroad.com/kiruhi)  
-- [Join the Community (Discord)](https://discord.gg/kiruhi)
+- [Join the Community (Discord)](https://discord.gg/79JgHNqauU)
 
 ---
 
