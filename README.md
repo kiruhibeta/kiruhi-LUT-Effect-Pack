@@ -114,6 +114,6 @@ Premium assets are for **non-commercial personal use only** unless otherwise lic
 
 **Kiruhi**  
 Founder @ [kiruhi.oi](https://kiruhi.oi)  
-🎥 [YouTube](https://youtube.com/@kiruhi) • 🎧 [TikTok](https://tiktok.com/@kiruhi) • 💬 [Discord](https://discord.gg/kiruhi)
+🎥 [YouTube](https://www.youtube.com/@KiruhiLab) • 🎧 [TikTok](https://tiktok.com/@kiruhi) • 💬 [Discord](https://discord.gg/79JgHNqauU)
 
 > Code is not just craft—it's culture.
